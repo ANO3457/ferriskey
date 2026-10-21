@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/base64-0.23.1",
+    "dependabot/cargo/signature-3.0.0",
+    "dependabot/cargo/utoipa-6.0.0",
+    "dependabot/cargo/utoipa-redoc-7.0.0",
+    "dependabot/npm_and_yarn/front/front-minor-e524a612b7",
+    "fix/logout-clear-session-realm",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/base64-0.23.1": "main",
+    "dependabot/cargo/signature-3.0.0": "main",
+    "dependabot/cargo/utoipa-6.0.0": "main",
+    "dependabot/cargo/utoipa-redoc-7.0.0": "main",
+    "dependabot/npm_and_yarn/front/front-minor-e524a612b7": "main",
+    "fix/logout-clear-session-realm": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/base64-0.23.1",
+    "dependabot/cargo/signature-3.0.0",
+    "dependabot/cargo/utoipa-6.0.0",
+    "dependabot/cargo/utoipa-redoc-7.0.0",
+    "dependabot/npm_and_yarn/front/front-minor-e524a612b7",
+    "fix/logout-clear-session-realm",
+    "origin"
+  ]
+}
